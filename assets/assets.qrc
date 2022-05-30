@@ -1,0 +1,45 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ant_fire.gif</file>
+        <file>ant_harvester.gif</file>
+        <file>ant_hungry.gif</file>
+        <file>ant_laser.gif</file>
+        <file>ant_longthrower.gif</file>
+        <file>ant_ninja.gif</file>
+        <file>ant_queen.gif</file>
+        <file>ant_scary.gif</file>
+        <file>ant_scuba.gif</file>
+        <file>ant_shortthrower.gif</file>
+        <file>ant_slow.gif</file>
+        <file>ant_thrower.gif</file>
+        <file>ant_wall.gif</file>
+        <file>bee_tank.gif</file>
+        <file>bee.gif</file>
+        <file>FlyA.png</file>
+        <file>FlyB.png</file>
+        <file>ground1.png</file>
+        <file>ground2.png</file>
+        <file>ground3.png</file>
+        <file>logo.png</file>
+        <file>main-background.png</file>
+        <file>new-ants-gui.png</file>
+        <file>remove.png</file>
+        <file>sky1.png</file>
+        <file>sky2.png</file>
+        <file>sky3.png</file>
+        <file>splash.png</file>
+        <file>swirl_pattern.png</file>
+        <file>water.png</file>
+        <file>block.png</file>
+        <file>ant_bodyguard.gif</file>
+        <file>statusBar.png</file>
+        <file>sun.png</file>
+        <file>boom.gif</file>
+        <file>Alipay.jpg</file>
+        <file>Wechat.png</file>
+        <file>head.jpg</file>
+        <file>cat1.gif</file>
+        <file>cat2.gif</file>
+        <file>huaji.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,10 @@
+Money 初始金钱
+Lives 初始生命
+Row 行
+Column 列
+Map 以矩阵形式给出格子种类
+按照行号给出路径种类
+/* Begin-1 起始点 End-0 终点
+ * flyRoad-2 飞行路径 land-3 近战格子与地面路径同在land
+ * remote-4 远程格子 barrier-5 不能部署 water-6
+*/

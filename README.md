@@ -56,4 +56,4 @@ This is the project02 in the ***Advanced Programming***, Spring 2022, NJU. It is
 
 ## Demo
 
-<video src="/Users/huwenjing/project02/CarrotFantasy/Demo.mp4"></video>
+<video src="./Demo.mp4"></video>
